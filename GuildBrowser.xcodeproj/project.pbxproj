@@ -464,8 +464,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CB9FDC6E15E9872E00B3713E /* Build configuration list for PBXNativeTarget "GuildBrowser" */;
 			buildPhases = (
-				CB9FDC3715E9872D00B3713E /* Sources */,
 				CB9FDC3815E9872D00B3713E /* Frameworks */,
+				CB9FDC3715E9872D00B3713E /* Sources */,
 				CB9FDC3915E9872D00B3713E /* Resources */,
 			);
 			buildRules = (
