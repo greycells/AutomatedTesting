@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A3143600180E5E6D00E28B25 /* embedded.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = A31435FF180E5E6D00E28B25 /* embedded.mobileprovision */; };
-		A3143601180E5E6D00E28B25 /* embedded.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = A31435FF180E5E6D00E28B25 /* embedded.mobileprovision */; };
 		A3FD951317FAD52500503EBA /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC5D15E9872E00B3713E /* SenTestingKit.framework */; };
 		A3FD951417FAD52500503EBA /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC3F15E9872D00B3713E /* UIKit.framework */; };
 		A3FD951517FAD52500503EBA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4115E9872D00B3713E /* Foundation.framework */; };
@@ -94,7 +92,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A31435FF180E5E6D00E28B25 /* embedded.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = embedded.mobileprovision; sourceTree = "<group>"; };
 		A3FD951217FAD52500503EBA /* GuildBrowserLogicTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuildBrowserLogicTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3FD951817FAD52500503EBA /* GuildBrowserLogicTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GuildBrowserLogicTests-Info.plist"; sourceTree = "<group>"; };
 		A3FD951A17FAD52500503EBA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -240,7 +237,6 @@
 				A3FD951817FAD52500503EBA /* GuildBrowserLogicTests-Info.plist */,
 				A3FD951917FAD52500503EBA /* InfoPlist.strings */,
 				A3FD951F17FAD52500503EBA /* GuildBrowserLogicTests-Prefix.pch */,
-				A31435FF180E5E6D00E28B25 /* embedded.mobileprovision */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -532,7 +528,6 @@
 				A3FD951B17FAD52500503EBA /* InfoPlist.strings in Resources */,
 				A3FD953217FADAE400503EBA /* character.json in Resources */,
 				A3FD953317FADAE400503EBA /* guild.json in Resources */,
-				A3143601180E5E6D00E28B25 /* embedded.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -570,7 +565,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB9FDC6815E9872E00B3713E /* InfoPlist.strings in Resources */,
-				A3143600180E5E6D00E28B25 /* embedded.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
